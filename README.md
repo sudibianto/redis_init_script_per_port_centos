@@ -1,1 +1,0 @@
-# redis_init_script_per_port_centos
